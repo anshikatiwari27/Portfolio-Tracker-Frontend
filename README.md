@@ -1,8 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Steps to run the project locally
 
-Currently, two official plugins are available:
+1. Install npm to run react code.
+2. Clone Portfolio-Tracker-Frontend repository.
+3. Clone Portfolio-Tracker-Backend repository.
+4. Intsall mysql and connect the mysql databse with springboot project through application.properties file.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
